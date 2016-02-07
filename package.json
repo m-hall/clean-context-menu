@@ -1,6 +1,6 @@
 {
   "name": "clean-context-menu",
-  "main": "./lib/clean-context-menu",
+  "main": "./lib/main",
   "version": "0.0.1",
   "description": "Cleans up context menus",
   "keywords": [
