@@ -1,17 +1,15 @@
 {
   "name": "clean-context-menu",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Cleans up the context menus when you find they are getting too large.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/m-hall/clean-context-menu",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "eslintConfig": {
     "rules": {
       "no-empty": 0,
