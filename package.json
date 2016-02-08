@@ -1,5 +1,5 @@
 {
-  "name": "Clean Context Menu",
+  "name": "clean-context-menu",
   "main": "./lib/main",
   "version": "0.1.0",
   "description": "Cleans up the context menus when you find they are getting too large.",
