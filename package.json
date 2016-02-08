@@ -1,11 +1,11 @@
 {
-  "name": "clean-context-menu",
+  "name": "Clean Context Menu",
   "main": "./lib/main",
-  "version": "0.0.1",
-  "description": "Cleans up context menus",
+  "version": "0.1.0",
+  "description": "Cleans up the context menus when you find they are getting too large.",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/clean-context-menu",
+  "repository": "https://github.com/m-hall/clean-context-menu",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
@@ -35,7 +35,6 @@
       ],
       "comma-dangle": 0
     },
-    "parser": "babel-eslint",
     "globals": {
       "atom": "true"
     },
